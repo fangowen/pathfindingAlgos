@@ -1,16 +1,6 @@
-Pathfinding Visualizer (Vanilla JS)
+Pathfinding Visualizer
 
 A small, single-file webapp that visualizes A* and BFS on a 30x30 grid.
-
-How to run:
-
-Open `webapp/index.html` in a browser. Or run a quick static server:
-
-```bash
-# from /Users/owenfang/Documents/PathfindingAlgos/webapp
-python3 -m http.server 8000
-# then open http://localhost:8000
-```
 
 Controls:
 - Algorithm select (A* or BFS)
