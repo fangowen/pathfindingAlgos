@@ -1,4 +1,4 @@
-Pathfinding Visualizer
+[Pathfinding Visualizer](https://fangowen.github.io/pathfindingAlgos/)
 
 A small, single-file webapp that visualizes A* and BFS on a 30x30 grid.
 
